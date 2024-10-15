@@ -8,7 +8,7 @@ export default function MapComponent({ offices, territorial }) {
 
   const mapContainerStyle = {
     width: '100%',
-    height: '80vh',
+    height: '78vh',
   };
 
   const defaultCenter = {
