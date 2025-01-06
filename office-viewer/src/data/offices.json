@@ -8592,7 +8592,7 @@
     "google_maps_address": "cl arq. vandelvira, 72, 02004, albacete, la mancha, Spain",
     "lat": 38.99029,
     "lng": -1.86587,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 2691,
@@ -8607,7 +8607,7 @@
     "google_maps_address": "cl mayor de carnicerias, 1, 13270, almagro, la mancha, Spain",
     "lat": 38.88876,
     "lng": -3.71097,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 1391,
@@ -8622,7 +8622,7 @@
     "google_maps_address": "pz de españa, 5, 13710, argamasilla de alba, la mancha, Spain",
     "lat": 39.12898,
     "lng": -3.08981,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 3615,
@@ -8637,7 +8637,7 @@
     "google_maps_address": "pz de la constitucion, 14, 45593, bargas, la mancha, Spain",
     "lat": 39.93994,
     "lng": -4.02102,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 2419,
@@ -8652,7 +8652,7 @@
     "google_maps_address": "cl carmen, 13, 45700, consuegra, la mancha, Spain",
     "lat": 39.45962,
     "lng": -3.60561,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 463,
@@ -8667,7 +8667,7 @@
     "google_maps_address": "pz de españa, 29, 13250, daimiel, la mancha, Spain",
     "lat": 39.06951,
     "lng": -3.61296,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 464,
@@ -8682,7 +8682,7 @@
     "google_maps_address": "av de la constitucion, 7, 13640, herencia, la mancha, Spain",
     "lat": 39.36837,
     "lng": -3.35454,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 2704,
@@ -8697,7 +8697,7 @@
     "google_maps_address": "cl caño grande, 9, 45516, la puebla de montalba, la mancha, Spain",
     "lat": 39.83726,
     "lng": -4.37707,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 1938,
@@ -8712,7 +8712,7 @@
     "google_maps_address": "cl calero, 3, 13240, la solana, la mancha, Spain",
     "lat": 38.94321,
     "lng": -3.23829,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 2499,
@@ -8727,7 +8727,7 @@
     "google_maps_address": "cl toledo, 3, 13200, manzanares, la mancha, Spain",
     "lat": 38.99944,
     "lng": -3.37036,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 2822,
@@ -8757,7 +8757,7 @@
     "google_maps_address": "cl mayor, 3, 19110, mondejar, la mancha, Spain",
     "lat": 40.32321,
     "lng": -3.10927,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 393,
@@ -8772,7 +8772,7 @@
     "google_maps_address": "cl mayor baja, 6, 16630, mota del cuervo, la mancha, Spain",
     "lat": 39.49968,
     "lng": -2.87072,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 2449,
@@ -8787,7 +8787,7 @@
     "google_maps_address": "cl escuelas, 10, 16200, motilla del palancar, la mancha, Spain",
     "lat": 39.56114,
     "lng": -1.91116,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 2524,
@@ -8802,7 +8802,7 @@
     "google_maps_address": "av del generalisimo, 2, 45300, ocaña, la mancha, Spain",
     "lat": 39.95691,
     "lng": -3.49826,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 4845,
@@ -8817,7 +8817,7 @@
     "google_maps_address": "cl concepcion, 2, 45800, quintanar de la orden, la mancha, Spain",
     "lat": 39.59158,
     "lng": -3.04183,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 4358,
@@ -8832,7 +8832,7 @@
     "google_maps_address": "cl bajada del salvador, 2, 45223, seseña, la mancha, Spain",
     "lat": 40.10382,
     "lng": -3.69864,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 7015,
@@ -8847,7 +8847,7 @@
     "google_maps_address": "cl chile, 2, 45004, toledo, la mancha, Spain",
     "lat": 39.8667,
     "lng": -4.03102,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 2640,
@@ -8862,7 +8862,7 @@
     "google_maps_address": "pz de españa, 6, 45860, villacañas, la mancha, Spain",
     "lat": 39.62493,
     "lng": -3.33332,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 5653,
@@ -8877,7 +8877,7 @@
     "google_maps_address": "pz de la constitucion, 1, 45520, villaluenga sagra, la mancha, Spain",
     "lat": 40.02312,
     "lng": -3.91136,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 4552,
@@ -8892,7 +8892,7 @@
     "google_maps_address": "cl real, 52, 45210, yuncos, la mancha, Spain",
     "lat": 40.08823,
     "lng": -3.87281,
-    "is_done": true
+    "is_done": false
   },
   {
     "cod. oficina": 1347,

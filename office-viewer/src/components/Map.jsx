@@ -67,36 +67,36 @@ export default function Map({ offices, showOfficeCode }) {
     }
   };
 
-  const handleToggleInstalled = async (marker) => {
-    const newStatus = !marker.is_done;
+//   const handleToggleInstalled = async (marker) => {
+//     const newStatus = !marker.is_done;
   
-    try {
-      const response = await fetch('/api/update-office', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ officeCode: marker.officeCode, isDone: newStatus }),
-      });
+//     try {
+//       const response = await fetch('/api/update-office', {
+//         method: 'POST',
+//         headers: {
+//           'Content-Type': 'application/json',
+//         },
+//         body: JSON.stringify({ officeCode: marker.officeCode, isDone: newStatus }),
+//       });
   
-      if (!response.ok) {
-        throw new Error('Error actualizando el archivo en el backend');
-      }
+//       if (!response.ok) {
+//         throw new Error('Error actualizando el archivo en el backend');
+//       }
   
-      const data = await response.json();
-      console.log('Archivo actualizado correctamente:', data);
+//       const data = await response.json();
+//       console.log('Archivo actualizado correctamente:', data);
   
-      setMarkers((prevMarkers) =>
-        prevMarkers.map((m) =>
-          m.officeCode === marker.officeCode ? { ...m, is_done: newStatus } : m
-        )
-      );
+//       setMarkers((prevMarkers) =>
+//         prevMarkers.map((m) =>
+//           m.officeCode === marker.officeCode ? { ...m, is_done: newStatus } : m
+//         )
+//       );
   
-      setSelectedMarker({ ...marker, is_done: newStatus });
-    } catch (error) {
-      console.error('Error al actualizar el archivo:', error);
-    }
-  };
+//       setSelectedMarker({ ...marker, is_done: newStatus });
+//     } catch (error) {
+//       console.error('Error al actualizar el archivo:', error);
+//     }
+//   };
 
   const mapContainerStyle = {
     width: '100%',
@@ -161,7 +161,7 @@ export default function Map({ offices, showOfficeCode }) {
               >
                 Iniciar Ruta con Waze
               </button>
-              <button
+              {/* <button
                 onClick={() => handleToggleInstalled(selectedMarker)}
                 style={{
                   padding: '8px',
@@ -174,7 +174,7 @@ export default function Map({ offices, showOfficeCode }) {
                 }}
               >
                 {selectedMarker.is_done ? 'Desmarcar como instalada' : 'Marcar como instalada'}
-              </button>
+              </button> */}
             </div>
           </InfoWindow>
         )}
