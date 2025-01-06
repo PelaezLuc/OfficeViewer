@@ -117,7 +117,7 @@ export default function Map({ offices, showOfficeCode }) {
             title={`Dirección: ${marker.direccion}\nCoordenadas: ${marker.lat} ${marker.lng}`}
             label={showOfficeCode ? marker.officeCode.toString() : undefined}
             icon={{
-              url: marker.is_done ? "public/greenMarker.png" : "public/redMarker.png",
+              url: marker.is_done ? "greenMarker.png" : "redMarker.png",
               scaledSize: new window.google.maps.Size(32, 32),
             }}
             onClick={() => handleMarkerClick(marker)}
