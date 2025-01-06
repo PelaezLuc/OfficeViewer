@@ -71,7 +71,7 @@ export default function Map({ offices, showOfficeCode }) {
     const newStatus = !marker.is_done;
   
     try {
-      const response = await fetch('/api/update-office', {
+      const response = await fetch('./api/update-office', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
